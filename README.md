@@ -5,7 +5,7 @@
 **소상공인 및 중소기업을 위한 맞춤형 금융상품과 지원사업을 추천해주는 RAG 기반 챗봇을 구축**하고자 하였습니다.
 
 📌 **발표 자료 및 코드**  
-🔗 [발표 자료](https://github.com/HyeyoonKim0711/2024-Bigcontest/blob/main/%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8.pptx.pdf)  
+🔗 [발표 자료](https://github.com/HyeyoonKim0711/2025-KB-AI-Challenge/blob/main/fig/KB%20AI%20Challenge.pdf)  
 🔗 [코드 저장소](https://github.com/HyeyoonKim0711/2025-KB-AI-Challenge/tree/main/utils)
 
 ---
@@ -151,7 +151,7 @@
 
   ![구현 결과](./fig/fig5.png)
 
-🔗 [사용 예시 동영상](https://github.com/HyeyoonKim0711/2024-Bigcontest/blob/main/%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8.pptx.pdf)  
+🎥 [사용 예시 동영상](https://github.com/HyeyoonKim0711/2025-KB-AI-Challenge/blob/main/fig/%EC%B1%97%EB%B4%87%20%EA%B5%AC%ED%98%84%20%EC%98%81%EC%83%81.mp4)  
 
 ![구현 결과 gif](./fig/gif.gif)
 
